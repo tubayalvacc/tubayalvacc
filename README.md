@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tubamhd
-- 👀 I’m interested in Web Developing and Software Developing!
+- 👀 I’m interested in Full Stack Web Developing and Software Developing!
 - 🌱 I’m currently learning Python and Java BackEnd Developing!
 - 💞️ I’m looking to collaborate on Beginner Projects!
 - 📫 How to reach me tubayalvacc@gmail.com
