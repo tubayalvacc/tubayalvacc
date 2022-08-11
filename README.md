@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tubamhd
+- 👋 Hi, This is Tuğba M.
 - 👀 I’m interested in Full Stack Web Developing and Software Engineering!
-- 🌱 I’m currently learning Python and Java BackEnd Developing!
-- 💞️ I’m looking to collaborate on Beginner Projects!
+- 🌱 I'm currently learning Intermediate Java BackEnd Developing!
+- 💞️ I’m looking to collaborate on Beginner and Intermediated Projects!
 - 📫 How to reach me tubayalvacc@gmail.com
 
 <!---
