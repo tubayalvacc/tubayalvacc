@@ -1,4 +1,7 @@
-- 👋 Hi, This is Tuğba YALVAÇ
+- 👋 Hi, This is Tuğba YALVAÇ.
+- 🎒 Student
+- 📚 Self-Taught Java BackEnd Dev. 👩🏻‍💻 
+- 🔨 I continue my self-improvement
 - 👀 I’m interested in Full Stack Web Developing and Software Engineering!
 - 🌱 I'm currently learning Intermediate Java BackEnd Developing!
 - 💞️ I’m looking to collaborate on Beginner and Intermediated Projects!
