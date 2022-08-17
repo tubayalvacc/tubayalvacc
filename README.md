@@ -1,5 +1,6 @@
 - 👋 Hi, This is Tuğba YALVAÇ.
 - 🎒 Student
+- 🇬🇧 English (C1)
 - 📚 Self-Taught Java BackEnd Dev. 👩🏻‍💻 
 - 🔨 I continue my self-improvement
 - 👀 I’m interested in Full Stack Web Developing and Software Engineering!
