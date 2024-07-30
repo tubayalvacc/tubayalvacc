@@ -1,0 +1,40 @@
+name: GitHub Stats and Activity Graph
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Generate GitHub Stats Card
+      run: |
+        echo "Generating GitHub Stats Card..."
+        curl -H "Authorization: token ${{ secrets.GH_PAT }}" \
+        -o README.md \
+        https://github-readme-stats.vercel.app/api?username=tubayalvacc&show_icons=true&count_private=true&hide=stars&theme=radical
+
+    - name: Generate Top Languages Card
+      run: |
+        echo "Generating Top Languages Card..."
+        curl -H "Authorization: token ${{ secrets.GH_PAT }}" \
+        -o README.md \
+        https://github-readme-stats.vercel.app/api/top-langs/?username=tubayalvacc&layout=compact&theme=radical
+
+    - name: Generate Activity Graph
+      run: |
+        echo "Generating Activity Graph..."
+        curl -H "Authorization: token ${{ secrets.GH_PAT }}" \
+        -o README.md \
+        https://github-readme-activity-graph.cyclic.app/graph?username=tubayalvacc&theme=dracula
+
+    - name: Commit Changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        git commit -m "Update README with GitHub Stats and Activity Graph"
+        git push
