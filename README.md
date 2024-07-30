@@ -19,4 +19,5 @@
 
 ## 📈 My Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tubayalvacc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tubayalvacc&theme=dracula)
+
