@@ -9,6 +9,19 @@
 - 👀 Interested in Full Stack Web Development and Android Mobile App Development!
 
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tubayalvacc&show_icons=true&count_private=true&hide=stars&theme=radical)
+
+## 🛠️ Languages and Tools
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubayalvacc&layout=compact&theme=radical)
+
+## 📈 My Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tubayalvacc&theme=dracula)
+
+
 <!---
 tubamhd/tubamhd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
