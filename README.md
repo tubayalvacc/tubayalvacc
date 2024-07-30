@@ -19,4 +19,4 @@
 
 ## 📈 My Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tubayalvacc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
