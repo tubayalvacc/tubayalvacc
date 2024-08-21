@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-custom-banner-url.com/banner.gif" alt="banner" width="600"/>
+</p>
+
 <h3 align="center">👋 Hi, This is Tuğba YALVAC MOHAMMED.</h3>
 
 ### 🇬🇧 English (C2)
@@ -8,12 +12,10 @@
 ### 📚 Studying Full-Stack WebApp development with Java, MongoDB, and React
 ### 🎓 Continuing my education in the BCA field
 ### 📫 How to reach me: tubayalvacc@gmail.com
+
 <h2 align="center" style="color: #f7d733; text-shadow: 0px 0px 8px #fff;">👀 Interested in Full Stack Web Development and Android Mobile App Development!!</h2>
 
 
-<p align="center">
-  <img src="https://your-custom-banner-url.com/banner.gif" alt="banner" width="600"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
