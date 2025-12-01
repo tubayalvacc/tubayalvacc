@@ -37,8 +37,8 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
   <td width="50%">
     <h3 align="center">🤖 WALDEN Robot</h3>
     <p align="center">
-      <a href="https://github.com/tubayalvacc/walden">
-        <img src="assets/walden-cover.png" width="100%" alt="WALDEN"/>
+      <a href="https://github.com/tubayalvacc/MyPortfolio-tubayalvacc/assets/gallery/CoverWalle">
+        <img src="github.com/MyPortfolio-tubayalvacc/assets/gallery/CoverWalle.png" width="100%" alt="WALDEN"/>
       </a>
     </p>
     <p><b>AI-Powered Educational Assistant</b></p>
@@ -48,7 +48,7 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
     <p>• Pilot study: n=12 students</p>
     <p>• Expanding to n=200 study (Jan 2026)</p>
     <p align="center">
-      <a href="https://github.com/tubayalvacc/walden">
+      <a href="https://tubayalvacc.github.io/MyPortfolio-tubayalvacc/">
         <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github"/>
       </a>
     </p>
@@ -56,8 +56,8 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
   <td width="50%">
     <h3 align="center">📖 TaleBot</h3>
     <p align="center">
-      <a href="https://github.com/tubayalvacc/talebot">
-        <img src="assets/talebot-cover.png" width="100%" alt="TaleBot"/>
+      <a href="https://tubayalvacc.github.io/MyPortfolio-tubayalvacc/">
+        <img src="github.com/MyPortfolio-tubayalvacc/assets/gallery/TaleBot.png" width="100%" alt="TaleBot"/>
       </a>
     </p>
     <p><b>AI Storytelling Robot (FYP)</b></p>
@@ -67,7 +67,7 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
     <p>• Target: Elementary students (8-12)</p>
     <p>• Status: In development (2025-2026)</p>
     <p align="center">
-      <a href="https://github.com/tubayalvacc/talebot">
+      <a href="https://tubayalvacc.github.io/MyPortfolio-tubayalvacc/">
         <img src="https://img.shields.io/badge/Code-In%20Development-orange?style=for-the-badge&logo=github"/>
       </a>
     </p>
@@ -77,8 +77,8 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
   <td width="50%">
     <h3 align="center">♻️ EcoSort Edu</h3>
     <p align="center">
-      <a href="https://github.com/tubayalvacc/ecosort-edu">
-        <img src="assets/ecosort-cover.png" width="100%" alt="EcoSort Edu"/>
+      <a href="https://tubayalvacc.github.io/MyPortfolio-tubayalvacc/">
+        <img src="github.com/MyPortfolio-tubayalvacc/assets/gallery/Ecosort.png" width="100%" alt="EcoSort Edu"/>
       </a>
     </p>
     <p><b>Dual-Mode Waste Sorting Robot</b></p>
@@ -88,7 +88,7 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
     <p>• $275 system for ages 10-16</p>
     <p>• Status: Master's/PhD proposal</p>
     <p align="center">
-      <a href="https://github.com/tubayalvacc/ecosort-edu">
+      <a href="https://tubayalvacc.github.io/MyPortfolio-tubayalvacc">
         <img src="https://img.shields.io/badge/Proposal-Read%20More-green?style=for-the-badge&logo=github"/>
       </a>
     </p>
@@ -96,8 +96,8 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
   <td width="50%">
     <h3 align="center">🚙 Wheels N' Works</h3>
     <p align="center">
-      <a href="https://github.com/tubayalvacc/wheels-n-works">
-        <img src="assets/wheels-cover.png" width="100%" alt="Wheels N Works"/>
+      <a href="https://tubayalvacc.github.io/MyPortfolio-tubayalvacc">
+        <img src="github.com/MyPortfolio-tubayalvacc/assets/gallery/CoverCustomer.png" width="100%" alt="Wheels N Works"/>
       </a>
     </p>
     <p><b>Workshop Management System</b></p>
@@ -107,7 +107,7 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
     <p>• Built during 10-week internship</p>
     <p>• PHP + MySQL + JavaScript</p>
     <p align="center">
-      <a href="https://github.com/tubayalvacc/wheels-n-works">
+      <a href="https://tubayalvacc.github.io/MyPortfolio-tubayalvacc">
         <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github"/>
       </a>
     </p>
