@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2C5F8D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tuğba+Yalvaç+Mohammed+👋;Robotics+%26+EdTech+Researcher+🤖;Building+Accessible+AI+for+Education+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2C5F8D&center=true&vCenter=true&width=600&lines=Hi,+I%27m+Tugba+Yalvac+Mohammed;Robotics+%26+EdTech+Researcher;Building+Accessible+AI+for+Education" alt="Typing SVG" />
 </div>
+
 
 <h3 align="center">
   <a href="https://tubayalvacc.github.io">🌐 Portfolio</a> •
@@ -94,7 +95,7 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
     </p>
   </td>
   <td width="50%">
-    <h3 align="center">🚙 Wheels N' Works</h3>
+    <h3 align="center">🚙 Wheels n' Works</h3>
     <p align="center">
       <a href="https://tubayalvacc.github.io/MyPortfolio-tubayalvacc">
         <img src="https://github.com/tubayalvacc/MyPortfolio-tubayalvacc/blob/main/assets/gallery/CoverCustomer.png" width="100%" alt="Wheels N Works"/>
@@ -136,14 +137,6 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tubayalvacc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubayalvacc&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
 
 ### 🎯 Currently Looking For
 
