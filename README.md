@@ -78,7 +78,7 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
     <h3 align="center">♻️ EcoSort Edu</h3>
     <p align="center">
       <a href="https://tubayalvacc.github.io/MyPortfolio-tubayalvacc/">
-        <img src="https://github.com/tubayalvacc/MyPortfolio-tubayalvacc/blob/main/assets/gallery/Ecosort.png" width="100%" alt="EcoSort Edu"/>
+        <img src="https://github.com/tubayalvacc/MyPortfolio-tubayalvacc/blob/main/assets/gallery/EcoSort.png" width="100%" alt="EcoSort Edu"/>
       </a>
     </p>
     <p><b>Dual-Mode Waste Sorting Robot</b></p>
