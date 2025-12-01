@@ -38,7 +38,7 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
     <h3 align="center">🤖 WALDEN Robot</h3>
     <p align="center">
       <a href="https://github.com/tubayalvacc/MyPortfolio-tubayalvacc/assets/gallery/CoverWalle">
-        <img src="github.com/MyPortfolio-tubayalvacc/assets/gallery/CoverWalle.png" width="100%" alt="WALDEN"/>
+        <img src="https://github.com/tubayalvacc/MyPortfolio-tubayalvacc/blob/main/assets/gallery/CoverWalle.png" width="100%" alt="WALDEN"/>
       </a>
     </p>
     <p><b>AI-Powered Educational Assistant</b></p>
@@ -57,7 +57,7 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
     <h3 align="center">📖 TaleBot</h3>
     <p align="center">
       <a href="https://tubayalvacc.github.io/MyPortfolio-tubayalvacc/">
-        <img src="github.com/MyPortfolio-tubayalvacc/assets/gallery/TaleBot.png" width="100%" alt="TaleBot"/>
+        <img src="https://github.com/tubayalvacc/MyPortfolio-tubayalvacc/blob/main/assets/gallery/TaleBot.png" width="100%" alt="TaleBot"/>
       </a>
     </p>
     <p><b>AI Storytelling Robot (FYP)</b></p>
@@ -78,7 +78,7 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
     <h3 align="center">♻️ EcoSort Edu</h3>
     <p align="center">
       <a href="https://tubayalvacc.github.io/MyPortfolio-tubayalvacc/">
-        <img src="github.com/MyPortfolio-tubayalvacc/assets/gallery/Ecosort.png" width="100%" alt="EcoSort Edu"/>
+        <img src="https://github.com/tubayalvacc/MyPortfolio-tubayalvacc/blob/main/assets/gallery/Ecosort.png" width="100%" alt="EcoSort Edu"/>
       </a>
     </p>
     <p><b>Dual-Mode Waste Sorting Robot</b></p>
