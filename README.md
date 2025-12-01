@@ -97,7 +97,7 @@ I build **low-cost AI-powered robots** to make STEM education accessible in unde
     <h3 align="center">🚙 Wheels N' Works</h3>
     <p align="center">
       <a href="https://tubayalvacc.github.io/MyPortfolio-tubayalvacc">
-        <img src="github.com/MyPortfolio-tubayalvacc/assets/gallery/CoverCustomer.png" width="100%" alt="Wheels N Works"/>
+        <img src="https://github.com/tubayalvacc/MyPortfolio-tubayalvacc/blob/main/assets/gallery/CoverCustomer.png" width="100%" alt="Wheels N Works"/>
       </a>
     </p>
     <p><b>Workshop Management System</b></p>
